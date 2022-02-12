@@ -1,7 +1,3 @@
-# Data set locations
-
-You are encouraged to bring in relevant data sets of your own, however these are the ones that we have noted in the project discussion:
-
 * [Confirmed Cases of COVID-19](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario) : this is the data set we examined last week
 
 * [Government of Ontario Datasets](https://data.ontario.ca/dataset)
