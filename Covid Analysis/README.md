@@ -7,7 +7,6 @@
 * [Government of Ontario Datasets tagged with "COVID-19"](https://data.ontario.ca/dataset?keywords_en=COVID-19)
 
 * [Statistics Canada Health Profile Data](https://www12.statcan.gc.ca/health-sante/82-228/search-recherche/lst/page.cfm?Lang=E&GeoLevel=PR&GEOCODE=35)
-    * Statistics Canada ("StatsCan") has a variety of data tools, including the (Census)[https://www.statcan.gc.ca/eng/census?MM=1] of which the Public Health Profile data is a part
 
 
        
