@@ -1,5 +1,3 @@
-# Question 1: How many cases were there each day in different cities in Ontario for a given month?
-
 # This program will create a graph of the COVID cases in a given month for the cities in Ontario with the most cases. 
 
 # The first command line argument is the amount of months since the start of COVID
