@@ -1,5 +1,5 @@
 # Covid-Data-Analysis
-This was a collaborative project done with 2 other peers to create three functions which process covid data from CSV files and outputs a graph relating information.  
+Project performs basic analysis on CSV data from the Ontario Covid 19 Database and creates different types of statistical graphs on correlated data
 
 # Purpose  
-The goal of this project was to get familiarized with Agile Development practices, practice product demos, learn python data frameworks and distribution of work while meeting deadlines
+The goal of this project was to get familiarized with Agile Development practices, Learn python data and graphin frameworks, all the while creating a purposeful and useful analysis to be used by anyone for basic covid data representations
